@@ -208,9 +208,9 @@ california-housing-preprocessing/
 │   └── README.md
 │
 ├── figures
-    └── correlation.png
-    └── feature importance.png
-    └── histogram.png
+│   └── correlation.png
+│   └── feature importance.png
+│   └── histogram.png
 │
 ├── notebooks/
 │   └── california_housing_analysis.ipynb
